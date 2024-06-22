@@ -1,4 +1,4 @@
-### Jetson Xavier NX
+### Jetson Xavier NX (running jetpack 5.1.3)
 -----------------------
 sudo apt update -y; sudo apt install tensorrt python3-pip -y; sudo apt-get install cuda-toolkit-*
 
